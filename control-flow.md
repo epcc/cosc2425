@@ -2,8 +2,6 @@
 Control Flow
 -----------------
 
-    A brief description about what the topics are and the usage in programming.
-
    Control flow is the order in which individual instructions are
    executed. In the MSP430 microcontroller and most architectures,
    instructions are executed in the order they appear in the program.
