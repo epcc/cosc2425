@@ -1,2 +1,2 @@
 
-This repository contains explanation of various topics in the COSC2425.
+This repository contains explanation of various topics in COSC2425.
